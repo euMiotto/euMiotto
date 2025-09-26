@@ -1,4 +1,6 @@
-# 👩🏻‍💻 Lucas miotto
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Quantico&size=40&duration=4000&pause=700&color=47E0E9C8&repeat=false&width=435&lines=Lucas+Miotto)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Quantico&weight=300&size=25&duration=3500&pause=400&color=3EC2CAC8&random=true&width=435&lines=Machile+leaning;Intelig%C3%AAncia+artificial;Data+science)](https://git.io/typing-svg)
+
 
 **`Cientista de dados`**
 
