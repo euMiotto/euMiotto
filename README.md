@@ -4,17 +4,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Quantico&weight=300&size=25&duration=3500&pause=400&color=3EC2CAC8&random=true&width=435&lines=Machile+leaning;Intelig%C3%AAncia+artificial;Data+science)](https://git.io/typing-svg)
 
-<b/>
-<b/>
-
----
 
 <b/>
 Olá! 👋 Meu nome é Lucas Miotto, tenho 21 anos e sou natural de São Paulo (capital). Formado no curso técnico em Desenvolvimento de Sistemas pela Etec Itaquera, atualmente estou cursando Análise e Desenvolvimento de Sistemas no Senac. Sou um entusiasta da tecnologia, focado em solucionar problemas da maneira mais eficiente possível. Tenho dedicado meus estudos às áreas de Ciência de Dados, Machine Learning e Inteligência Artificial, e estou sempre em busca de novos desafios e conhecimentos. Visite meu perfil no linkedin.
-<br/>
-<br/>
 
----
 ### Contato 📲
 
 <a href="https://www.linkedin.com/in/lucas-miotto-da-costa-23b973258/?trk=opento_sprofile_topcard">
@@ -29,10 +22,11 @@ Olá! 👋 Meu nome é Lucas Miotto, tenho 21 anos e sou natural de São Paulo (
 <a href="mailto:lucasmcosta2004@gmail.com">
    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
+  
 <br/>
 <br/>
-
----
+  
+  ---
 
 ### 💻 Linguagens e Tecnologias
 
