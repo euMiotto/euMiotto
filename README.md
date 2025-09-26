@@ -1,9 +1,15 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Quantico&size=40&duration=4000&pause=700&color=47E0E9C8&repeat=false&width=435&lines=Lucas+Miotto)](https://git.io/typing-svg)
+
+<b/>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Quantico&weight=300&size=25&duration=3500&pause=400&color=3EC2CAC8&random=true&width=435&lines=Machile+leaning;Intelig%C3%AAncia+artificial;Data+science)](https://git.io/typing-svg)
 
+<b/>
+<b/>
 
-**`Cientista de dados`**
+---
 
+<b/>
 Olá! 👋 Meu nome é Lucas Miotto, tenho 21 anos e sou natural de São Paulo (capital). Formado no curso técnico em Desenvolvimento de Sistemas pela Etec Itaquera, atualmente estou cursando Análise e Desenvolvimento de Sistemas no Senac. Sou um entusiasta da tecnologia, focado em solucionar problemas da maneira mais eficiente possível. Tenho dedicado meus estudos às áreas de Ciência de Dados, Machine Learning e Inteligência Artificial, e estou sempre em busca de novos desafios e conhecimentos. Visite meu perfil no linkedin.
 <br/>
 <br/>
