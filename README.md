@@ -6,7 +6,7 @@
 
 
 <b/>
-Olá! 👋 Meu nome é Lucas Miotto, tenho 21 anos e sou natural de São Paulo (capital). Formado no curso técnico em Desenvolvimento de Sistemas pela Etec Itaquera, atualmente estou cursando Análise e Desenvolvimento de Sistemas no Senac. Sou um entusiasta da tecnologia, focado em solucionar problemas da maneira mais eficiente possível. Tenho dedicado meus estudos às áreas de Ciência de Dados, Machine Learning e Inteligência Artificial, e estou sempre em busca de novos desafios e conhecimentos. Visite meu perfil no linkedin.
+Olá! Meu nome é Lucas Miotto, tenho 21 anos e sou natural de São Paulo (capital). Formado no curso técnico em Desenvolvimento de Sistemas pela Etec Itaquera, atualmente estou cursando Análise e Desenvolvimento de Sistemas no Senac. Sou um entusiasta da tecnologia, focado em solucionar problemas da maneira mais eficiente possível. Tenho dedicado meus estudos às áreas de Ciência de Dados, Machine Learning e Inteligência Artificial, e estou sempre em busca de novos desafios e conhecimentos. Visite meu perfil no linkedin.
 
 ### Contato 📲
 
